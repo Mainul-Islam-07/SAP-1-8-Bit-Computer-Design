@@ -1,4 +1,4 @@
-# SAP-1-EEE-Project By FrostByte
+# SAP-1-EEE-4308 Project by Team FrostByte, IUT
 SAP-1 (Simple As Possible)  Architecture Based 8-Bit Computer Design Done in simulating software named "Proteus".
 
 This is a Lab Project of EEE undergrad from a small team of Educational Institution named IUT , Bangladesh.
