@@ -3,9 +3,12 @@ SAP-1 (Simple As Possible)  Architecture Based 8-Bit Computer Design Done in sim
 
 This is a Lab Project of EEE undergrad from a small team of Educational Institution named IUT , Bangladesh.
 
-Memeber of the Team:
+Member of the Team:
+
 Mainul Islam
+
 Wasik Billah Ibn Rashid
+
 Sifat Aziz
 
 
